@@ -21,13 +21,13 @@ A fully featured **mixed side** modpack experience for Minecraft 1.20.4.<br/>
 - 🤝 Maintains best compatibility with mods by running on the **latest version of minecraft**.
 
 
-- 🛠️ Contains absolutely no mod conflicts or overlapping features.
+- 🛠️ Contains absolutely **no mod conflicts** or overlapping features.
 
 
 - 🗜️ All present configuration changes **applied by hand** - no data-generation inaccuracies!
 
 
-- 📦 Works totally out of the box with no required, optional, or embedded dependencies.
+- 📦 Works **totally out of the box** with no required, optional, or embedded dependencies.
 
 ---
 
@@ -65,9 +65,11 @@ Just like block-based video game we all know and love, **Incredible Minecraft** 
 
 <details>
 <summary>Click to expand the full mod list</summary>
-The experience of <b>Incredible Minecraft</b> has been so carefully curated, configured, and seamlessly integrated into the pack itself that it would be morally unjust to list them here! 
 
-The team at <b>Incredible Minecraft</b> guarantees that the experience in the pack is completely unlike the experience you would have if you installed mods yourself - so just read the modpack description again if you need to know more!
+The experience of <b>Incredible Minecraft</b> has been so carefully curated, configured, and seamlessly integrated into the pack itself that it would be morally unjust to list them here!<br/>
+
+
+The team at <b>Incredible Minecraft</b> guarantees that the experience in the pack is completely unlike the experience you would have if you installed mods yourself - so just read the modpack description again if you need to know more!<br/>
 
 This pack is the culmination of nearly 50 hours of work, and is far more complex than most mods hosted on modrinth - so listing <i>all</i> the developers for the mods in this project would be unreasonable. To keep things short here, I'd like to just give a special thank you to the <b>Incredible Minecraft</b> team - you're the best!
 
