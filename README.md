@@ -45,7 +45,7 @@ Incredible Minecraft is primarily oriented around **player-driven design**. That
 
 ![image](https://cdn.modrinth.com/data/5ecJcrVG/images/e7252cf737cb6eb30ccae2e41e3e2d1a8ccfbb88.jpeg)
 
-Unlike Vanilla+ modpacks that claim to have "vanilla-style" content, all content and changes in Incredible Minecraft have been **reviewed and endorsed by two or more Mojang employees**.
+Unlike Vanilla+ modpacks that claim to have "vanilla-style" content, all content and changes in Incredible Minecraft have been **reviewed and endorsed by two or more Mojang employees**. We're very excited to be at the forefront of this trend and hope more modpacks strive for perfection in the future! 
 
 ---
 
