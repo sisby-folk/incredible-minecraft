@@ -53,7 +53,7 @@ Unlike Vanilla+ modpacks that claim to have "vanilla-style" content, all content
 
 ![image](https://cdn.modrinth.com/data/5ecJcrVG/images/c508f11677c6761fd7eef72e95c79895f143a98c.png)
 
-Just like block-based video game we all know and love, **Incredible Minecraft** has a **fully randomly generated world** - no compromises are made here, features from mods that don't adhere to the blocky natural world generator design pioneered in vanilla are either cut or redesigned to make full use of the power of the world generator.   
+Just like the block-based video game we all know and love, **Incredible Minecraft** has a **fully randomly generated world** - no compromises are made here, features from mods that don't adhere to the blocky natural world generator design pioneered in vanilla are either cut or redesigned to make full use of the power of the world generator.   
 
 ---
 
