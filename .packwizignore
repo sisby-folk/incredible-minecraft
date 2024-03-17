@@ -1,0 +1,12 @@
+.git/
+.github/
+.idea/
+.gitattributes
+.gitignore
+README.md
+LICENSE
+datagen/
+mods/override/
+enable_hooks.sh
+git/
+config/ftbquests/

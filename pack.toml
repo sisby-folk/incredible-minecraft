@@ -1,0 +1,13 @@
+name = "Incredible Minecraft"
+author = "Sisby folk"
+version = "4.01"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "37ef7a48c2d46973c64677142c4aa9f7bd28eb3b78e808a7ce5d260fda4e2ea7"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.4"

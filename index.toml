@@ -1,0 +1,13 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "0f3216c34ac2703c55bb18b4661dfce5ec49d3708043d8c0aed1575f9c5606d8"
+
+[[files]]
+file = "LICENSE"
+hash = "d22f7f49b558745ee2743084ea7624f172c09d58e57281c697d8d2cc9d1dc842"
+
+[[files]]
+file = "README.md"
+hash = "52f2538d0f04f1cff96be5f820bbc86407ef509b6f73df0494e7e3522c5b2aeb"
