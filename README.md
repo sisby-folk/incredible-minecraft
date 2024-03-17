@@ -26,6 +26,9 @@ A fully featured **mixed side** modpack experience for Minecraft 1.20.4.<br/>
 
 - 🗜️ All present configuration changes **applied by hand** - no data-generation inaccuracies!
 
+
+- 📦 Works totally out of the box with no required, optional, or embedded dependencies.
+
 ---
 
 # Modpack Design & Focus
@@ -84,6 +87,8 @@ This pack is the culmination of nearly 50 hours of work, and is far more complex
 You are **not** allowed to redistribute any part of the pack, including any mod jars in the project - we consider them sufficiently modified by our configuration files that this is **stealing**.
 
 You are **not** allowed to download any configuration or "mrpack" files present in the modpack download and utilize them for your own personal use.
+
+You are **not** allowed to learn from the contents of the modpack source, distributed modpack, or secondary artifacts such as the mod page/readme and utilise this for any use case.
 
 ![image](https://cdn.modrinth.com/data/5ecJcrVG/images/21ee2a2232b5cecd1f8149a4a08f30216d5dab9f.png)
 
