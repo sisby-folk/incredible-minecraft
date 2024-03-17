@@ -35,7 +35,7 @@ A fully featured **mixed side** modpack experience for Minecraft 1.20.4.<br/>
 
 ![image](https://cdn.modrinth.com/data/5ecJcrVG/images/40fd3fe884b215123581482f9bc6c4baa0d0647b.png)
 
-In **Incredible Minecraft**, players are expected to experience minecraft as it could've been if it effectively possessed the power and creativity of the modding community.
+In **Incredible Minecraft**, players are expected to experience minecraft as it could've been if it possessed the ingenuity, curation, and responsible attribution skills of the modpacking community at large.
 
 Incredible Minecraft is primarily oriented around **player-driven design**. That means it's less important what the modpack brings to each individual player, and more important what each player can bring when they play the modpack - their creativity, their sense of adventure. Step in and have fun!
 
