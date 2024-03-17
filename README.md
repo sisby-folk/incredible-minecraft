@@ -1,4 +1,4 @@
-![image](https://www.minecraft.net/content/dam/games/minecraft/screenshots/beta19U5_2_1170x500.jpg.transform/minecraft-image-large/image.jpg)
+![image](https://cdn.modrinth.com/data/5ecJcrVG/images/d213ad83bce2b929f8dea464d13a951c6e1c2818.png) 
 
 ---
 
@@ -30,7 +30,7 @@ A fully featured **mixed side** modpack experience for Minecraft 1.20.4.<br/>
 
 # Modpack Design & Focus
 
-![image](https://www.minecraft.net/content/dam/games/minecraft/screenshots/oldgrowthtaiga-carousel2.jpg)
+![image](https://cdn.modrinth.com/data/5ecJcrVG/images/40fd3fe884b215123581482f9bc6c4baa0d0647b.png)
 
 In **Incredible Minecraft**, players are expected to experience minecraft as it could've been if it effectively possessed the power and creativity of the modding community.
 
@@ -40,7 +40,7 @@ Incredible Minecraft is primarily oriented around **player-driven design**. That
 
 ### Officially Sanctioned
 
-![image](https://www.minecraft.net/content/dam/games/minecraft/screenshots/1_20_2_release_3.jpg)
+![image](https://cdn.modrinth.com/data/5ecJcrVG/images/e7252cf737cb6eb30ccae2e41e3e2d1a8ccfbb88.jpeg)
 
 Unlike Vanilla+ modpacks that claim to have "vanilla-style" content, all content and changes in Incredible Minecraft have been **reviewed and endorsed by two or more Mojang employees**.
 
@@ -48,7 +48,7 @@ Unlike Vanilla+ modpacks that claim to have "vanilla-style" content, all content
 
 ### Dynamic World
 
-![image](https://www.minecraft.net/content/dam/games/minecraft/screenshots/1_20_2_header.jpg.transform/minecraft-image-large/image.jpg)
+![image](https://cdn.modrinth.com/data/5ecJcrVG/images/c508f11677c6761fd7eef72e95c79895f143a98c.png)
 
 Just like block-based video game we all know and love, **Incredible Minecraft** has a **fully randomly generated world** - no compromises are made here, features from mods that don't adhere to the blocky natural world generator design pioneered in vanilla are either cut or redesigned to make full use of the power of the world generator.   
 
@@ -68,7 +68,7 @@ The team at <b>Incredible Minecraft</b> guarantees that the experience in the pa
 
 This pack is the culmination of nearly 50 hours of work, and is far more complex than most mods hosted on modrinth - so listing <i>all</i> the developers for the mods in this project would be unreasonable. To keep things short here, I'd like to just give a special thank you to the <b>Incredible Minecraft</b> team - you're the best!
 
-<img src="https://www.minecraft.net/content/dam/games/minecraft/screenshots/mm-camel2.jpg"></img>
+<img src="https://cdn.modrinth.com/data/5ecJcrVG/images/bc22d9773f827384b8d8c697996adc7430e379c5.png"></img>
 </details>
 
 ---
@@ -85,7 +85,7 @@ You are **not** allowed to redistribute any part of the pack, including any mod 
 
 You are **not** allowed to download any configuration or "mrpack" files present in the modpack download and utilize them for your own personal use.
 
-![image](https://www.minecraft.net/content/dam/games/minecraft/screenshots/1.20.3%20pre2%201170x500.jpg.transform/minecraft-image-large/image.jpg)
+![image](https://cdn.modrinth.com/data/5ecJcrVG/images/21ee2a2232b5cecd1f8149a4a08f30216d5dab9f.png)
 
 **Illegal Sources**: The official copy of **Incredible Minecraft** was released on modrinth on the 1st of April 2024! **No other website is legitimate**!.
 
@@ -101,7 +101,7 @@ Incredible Minecraft is a collaborative project, and regular updates are posted 
 * [Bluesky](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![image](https://www.minecraft.net/content/dam/games/minecraft/screenshots/cow-ingame.jpg)
+![image](https://cdn.modrinth.com/data/5ecJcrVG/images/d247886d95a441be4a11e01464eefab28d760f7e.png) 
 
 ---
 
