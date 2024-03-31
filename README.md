@@ -1,4 +1,4 @@
-![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/21ee2a2232b5cecd1f8149a4a08f30216d5dab9f.png) 
+![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/d213ad83bce2b929f8dea464d13a951c6e1c2818.png) 
 
 ---
 
@@ -108,7 +108,7 @@ Incredible Minecraft is a collaborative project, and regular updates are posted 
 * [Bluesky](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/d247886d95a441be4a11e01464eefab28d760f7e.png) 
+![an incredible and wholly original preview image for the modpack incredible minecraft](https://github.com/sisby-folk/incredible-minecraft/blob/main/CONTRIBUTING.md) 
 
 ---
 
