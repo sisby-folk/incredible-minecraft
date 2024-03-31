@@ -108,10 +108,10 @@ Incredible Minecraft is a collaborative project, and regular updates are posted 
 * [Bluesky](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![an incredible and wholly original preview image for the modpack incredible minecraft](https://github.com/sisby-folk/incredible-minecraft/blob/main/CONTRIBUTING.md) 
+![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/d247886d95a441be4a11e01464eefab28d760f7e.png) 
 
 ---
 
-## THIS MODPACK IS A LIVING PROJECT. PLEASE READ [THE ROADMAP](https://www.youtube.com/watch?v=dQw4w9WgXcQ) TO SEE WHAT'S IN STORE FOR THE NEXT TWO YEARS OF INCREDIBLE MINECRAFT!
+## THIS MODPACK IS A LIVING PROJECT. PLEASE READ [THE ROADMAP](https://github.com/sisby-folk/incredible-minecraft/blob/main/CONTRIBUTING.md) TO SEE WHAT'S IN STORE FOR THE NEXT TWO YEARS OF INCREDIBLE MINECRAFT!
 
 ---
