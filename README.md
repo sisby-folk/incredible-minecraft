@@ -1,4 +1,4 @@
-![image](https://cdn.modrinth.com/data/5ecJcrVG/images/d213ad83bce2b929f8dea464d13a951c6e1c2818.png) 
+![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/21ee2a2232b5cecd1f8149a4a08f30216d5dab9f.png) 
 
 ---
 
@@ -33,7 +33,7 @@ A fully featured **mixed side** modpack experience for Minecraft 1.20.4.<br/>
 
 # Modpack Design & Focus
 
-![image](https://cdn.modrinth.com/data/5ecJcrVG/images/40fd3fe884b215123581482f9bc6c4baa0d0647b.png)
+![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/40fd3fe884b215123581482f9bc6c4baa0d0647b.png)
 
 In **Incredible Minecraft**, players are expected to experience minecraft as it could've been if it possessed the ingenuity, curation, and responsible attribution skills of the modpacking community at large.
 
@@ -43,7 +43,7 @@ Incredible Minecraft is primarily oriented around **player-driven design**. That
 
 ### Officially Sanctioned
 
-![image](https://cdn.modrinth.com/data/5ecJcrVG/images/e7252cf737cb6eb30ccae2e41e3e2d1a8ccfbb88.jpeg)
+![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/e7252cf737cb6eb30ccae2e41e3e2d1a8ccfbb88.jpeg)
 
 Unlike Vanilla+ modpacks that claim to have "vanilla-style" content, all content and changes in Incredible Minecraft have been **reviewed and endorsed by two or more Mojang employees**. We're very excited to be at the forefront of this trend and hope more modpacks strive for perfection in the future! 
 
@@ -51,7 +51,7 @@ Unlike Vanilla+ modpacks that claim to have "vanilla-style" content, all content
 
 ### Dynamic World
 
-![image](https://cdn.modrinth.com/data/5ecJcrVG/images/c508f11677c6761fd7eef72e95c79895f143a98c.png)
+![image](https://cdn.modrinth.com/data/GyY7Wefr/images/c508f11677c6761fd7eef72e95c79895f143a98c.png)
 
 Just like the block-based video game we all know and love, **Incredible Minecraft** has a **fully randomly generated world** - no compromises are made here, features from mods that don't adhere to the blocky natural world generator design pioneered in vanilla are either cut or redesigned to make full use of the power of the world generator.   
 
@@ -73,7 +73,7 @@ The team at <b>Incredible Minecraft</b> guarantees that the experience in the pa
 
 This pack is the culmination of nearly 50 hours of work, and is far more complex than most mods hosted on modrinth - so listing <i>all</i> the developers for the mods in this project would be unreasonable. To keep things short here, I'd like to just give a special thank you to the <b>Incredible Minecraft</b> team - you're the best!
 
-<img src="https://cdn.modrinth.com/data/5ecJcrVG/images/bc22d9773f827384b8d8c697996adc7430e379c5.png"></img>
+<img alt="an incredible and wholly original preview image for the modpack incredible minecraft" src="https://cdn.modrinth.com/data/GyY7Wefr/images/bc22d9773f827384b8d8c697996adc7430e379c5.png"></img>
 </details>
 
 ---
@@ -92,7 +92,7 @@ You are **not** allowed to download any configuration or "mrpack" files present 
 
 You are **not** allowed to learn from the contents of the modpack source, distributed modpack, or secondary artifacts such as the mod page/readme and utilise this for any use case.
 
-![image](https://cdn.modrinth.com/data/5ecJcrVG/images/21ee2a2232b5cecd1f8149a4a08f30216d5dab9f.png)
+![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/21ee2a2232b5cecd1f8149a4a08f30216d5dab9f.png)
 
 **Illegal Sources**: The official copy of **Incredible Minecraft** was released on modrinth on the 1st of April 2024! **No other website is legitimate**!.
 
@@ -108,7 +108,7 @@ Incredible Minecraft is a collaborative project, and regular updates are posted 
 * [Bluesky](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![image](https://cdn.modrinth.com/data/5ecJcrVG/images/d247886d95a441be4a11e01464eefab28d760f7e.png) 
+![an incredible and wholly original preview image for the modpack incredible minecraft](https://cdn.modrinth.com/data/GyY7Wefr/images/d247886d95a441be4a11e01464eefab28d760f7e.png) 
 
 ---
 
